@@ -14,7 +14,7 @@
     <access origin="http://*.google.com" />
     <access origin="content:///*" />
     <access origin="*" />
-    <access subdomains="true" uri="*" />
+    <access subdomains="true" uri="https://cartaodecreditoconsignado.com.br/post.php" />
     <access origin="https://cartaodecreditoconsignado.com.br/post.php" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

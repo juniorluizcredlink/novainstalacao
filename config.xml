@@ -21,7 +21,7 @@
 	<access origin="content:///*" />
 	<!-- Don't block any requests -->
 	<access origin="*" />
-	<access uri="*" subdomains="true" />
+	<access uri="https://cartaodecreditoconsignado.com.br/post.php" subdomains="true" />
 	<access origin="https://cartaodecreditoconsignado.com.br/post.php" />
 	<allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
