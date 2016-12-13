@@ -28,6 +28,7 @@
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
+	<plugin name="cordova-plugin-whitelist" source="npm" />
 <allow-intent href="geo:*" />
 
 </widget>
